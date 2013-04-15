@@ -1,0 +1,251 @@
+body {
+	background-color : #FFFFFF;
+	text-align: center;  /* pour corriger le bug de centrage IE */
+	margin: 0;
+	font-family: "Century Gothic";
+	font-size: 12px;
+	font-style: normal;
+	}
+
+p { 
+	font: 8pt/16pt georgia; 
+	margin-top: 0px; 
+	text-align: justify;
+	}
+
+h1 {
+	font-size: 140%;
+	text-align: center;
+	}
+
+
+h2	{
+	font-size: 100%;
+	text-align: center;
+	}
+
+
+#Global {
+	background-color: #FFFFFF;
+     }
+
+#Header {
+	float : Aucune;
+	height : 40px;
+	background-color: #FFFFFF;
+	top: auto;
+	width: 100%;
+	padding-top: 5px;
+	}
+	
+#tools {
+		background-color: #FFFFFF;
+		}
+
+#TICKER{
+	height: 14px;
+	}
+
+#Hauttableau {
+	float : left;
+	width: 100%;
+	
+	}
+
+#Tableauheader {
+	float : left;
+	width: 100%;
+	}
+	
+#TableauA {
+	float : left;
+	width: 100%;
+	}
+
+#Table1 {
+	padding: 0;
+	width: 100%;
+	}
+
+#Table2 {
+	padding: 0;
+	width: 100%;
+	}
+
+#Table3 {
+	padding: 0;
+	width: 100%;
+	}
+
+#Table4 {
+	padding: 0;
+	width: 100%;
+	}
+
+#Footer {
+	clear: both;
+	background: transparent url(images/bottombg.jpg) no-repeat center top; /* image raccord bas */
+	height: 40px;
+	background-color: #D7D59E;
+	}
+
+
+.petit {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.textechamps {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	color: #000000;
+	font-weight: normal;
+}
+.texteheure {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FF0000;
+
+}
+.textecoordonnee {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	font-weight: bold;
+
+}
+.textecontenue {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	color: #333333;
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+
+
+
+}
+.textecontenue1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 34px;
+	color: #000000;
+	font-weight: bold;
+	position: relative;
+	overflow: hidden;
+	font-variant: normal;
+	letter-spacing: -1mm;
+}
+.textREC {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.textecontenue2 {
+	font-family: "Century Gothic";
+	font-size: 20px;
+	color: #000000;
+	font-weight: normal;
+	letter-spacing: -1px;
+
+}
+.textedate {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: bolder;
+	color: #FFFFFF;
+}
+.TEXTEDUREE {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #333333;
+}
+.petit {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.textecoordonnee2 {
+	font-family: "Century Gothic";
+	font-size: 18px;
+	color: #000000;
+	font-weight: normal;
+	letter-spacing: 0px;
+
+
+}
+.textecoordonneeR1 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.espace {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 6px;
+	line-height: 6px;
+}
+.textechamps2 {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	color: #666666;
+	font-weight: normal;
+	letter-spacing: 0px;
+}
+
+.textedate {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: bolder;
+	color: #FFFFFF;
+}
+.TEXTEDUREE {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	font-weight: bold;
+	color: #333333;
+}
+	
+	.textREC1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+
+}
+.textRec3 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.petit2 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+	
+.head1 {
+	position: absolute;
+	width: 638px;
+	height: 40px;
+	background: transparent url(images/txthead1.gif) no-repeat;
+	left: 37px;
+	top: 114px;
+	}
+	
+
+	
+	/* les polices créés sous dreamweaver et copiées */
